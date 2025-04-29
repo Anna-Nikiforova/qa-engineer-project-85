@@ -29,11 +29,11 @@
 
 - summary: |
     Проверка создания PvP-баттла
-  status: pass
+  status: fail
 
 - summary: |
     Проверка отправки сообщений в чате баттла
-  status: pass
+  status: fail
 
   - summary: |
     Проверка изменения рейтинга после победы
