@@ -5,7 +5,7 @@
   
 - summary: |
      Успешная авторизация через Discord
-  status: pass
+  status: fail
 
 - summary: |
      Успешная регистрация нового пользователя с валидными данными
@@ -29,11 +29,11 @@
 
 - summary: |
     Проверка создания PvP-баттла
-  status: fail
+  status: pass
 
 - summary: |
     Проверка отправки сообщений в чате баттла
-  status: fail
+  status: pass
 
   - summary: |
     Проверка изменения рейтинга после победы
