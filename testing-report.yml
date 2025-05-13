@@ -24,10 +24,6 @@
   status: pass
 
 - summary: |
-    Проверка смены языка на русский
-  status: pass
-
-- summary: |
     Проверка создания PvP-баттла
   status: pass
 
@@ -37,4 +33,4 @@
 
   - summary: |
     Проверка изменения рейтинга после победы
-  status: pass
+  status: fail
